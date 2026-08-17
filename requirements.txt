@@ -14,4 +14,4 @@ matplotlib>=3.4
 # Image handling for the Rigol scope viewers (rigol_view.py, rigol_scope_live.py,
 # rigol_screenshot.py) — screenshot capture + Tk preview (PIL.ImageTk; needs the
 # system tkinter / python3-tk package at runtime).
-Pillow>=9.0
+Pillow>=10.0.0
